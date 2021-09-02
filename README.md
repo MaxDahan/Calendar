@@ -4,7 +4,7 @@ How to Run
 To run Calendar just download the jar and double click it. Understand that the Calendar application will create a directory to store calendar information in C:\Users\(user)\AppData\Local\Calendar. The Calendar directory file will not be made if already there.
 
 How to Use
-- to use the shortcut just download it and click on properties, shortcut, then change the file path in target and starting in to have your username. P.S. placing this in C:\Users\(user)\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar will add the shortcut to your taskbar!. Just make sure you have the latest version of the jdk installed and no extra JRE installed.
+- to use the shortcut just download it and click on properties, shortcut, then change the file path in target and starting in to have your username. If you want the Calendar icon to show up for the shortcut just go to the properties of the shortcut and change it to the provided .ico file. P.S. placing this in C:\Users\(user)\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar will add the shortcut to your taskbar!. Just make sure you have the latest version of the jdk installed and no extra JRE installed.
 - do not tamper with the default files made in C:\Users\(user)\AppData\Local\Calendar unless you do not want the Calendar app to properly function anymore.
 - closing the app: press the "Esc" key on any piece of the application that is not a text box
 - moving around the app: click, hold, and move your mouse around on any piece of the application that is not a text box.
