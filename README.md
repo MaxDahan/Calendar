@@ -4,6 +4,7 @@ How to Run
 To run Calendar just download the jar and double click it. Understand that the Calendar application will create a directory to store calendar information in C:\Users\(user)\AppData\Local\Calendar. The Calendar directory file will not be made if already there.
 
 How to Use
+- do not tamper with the default files made in C:\Users\(user)\AppData\Local\Calendar unless you do not want the Calendar app to properly function anymore.
 - closing the app: press the "Esc" key on any piece of the application that is not a text box
 - moving around the app: click, hold, and move your mouse around on any piece of the application that is not a text box.
 - minimizing the app: press the "-" key
