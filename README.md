@@ -14,5 +14,5 @@ How to Use
 - switching between months: press the "Right_Arrow" or "Up_Arrow" key to move forward a month (and year if you go from December to January). press the "Left_Arrow" or "Down_Arrow" key to move backwards a month (and year if you go from January to December).
 - changing directories: press on the text box with a file path and enter in your new desired file path then press enter. Keep in mind that after about 10 seconds the file path will automatically revert back to the current Calendar's path (I would recommend copy pasting the file path instead of typing it). Also keep in mind that entering a new file path with no Calendar yet made will automatically begin creating files at that path. Finally, typing in an invalid path for a directory will cause new Calendar to be unsavable until the path is fixed/corrected.
 - syncing with multiple devices: create a directory in the Calendar app with a path to a shared drive. On whatever devices that would like to sync with the calendar, type the path to the directory in the shared drive in the path text box and press enter.
-- 
+
 ![Calender](https://user-images.githubusercontent.com/47724472/152274681-f9a06c86-2ab6-45d0-a825-824e55253466.JPG)
